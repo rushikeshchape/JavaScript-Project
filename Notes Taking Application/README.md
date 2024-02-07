@@ -15,5 +15,5 @@ This is a simple note-keeping web application built using HTML, CSS, and JavaScr
 - **JavaScript:** Used for adding interactivity to the app, such as handling user actions and managing notes.
 
 ### Screenshots : 
-<img src="screenshot/Screenshot (2).png"/>
-<img src="screenshot/Screenshot (3).png"/>
+<img src="screenshot/Screenshot (4).png"/>
+<img src="screenshot/Screenshot (5).png"/>
