@@ -11,6 +11,6 @@ This is a simple todo list application built using HTML, CSS, and JavaScript. It
 - Simple and intuitive user interface.
 
 ### Screenshots : 
-<img src="screenshot/Screenshot (169).png"/>
-<img src="screenshot/Screenshot (170).png"/>
+<img src="screenshot/Screenshot (2).png"/>
+<img src="screenshot/Screenshot (3).png"/>
 
